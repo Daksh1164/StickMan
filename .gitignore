@@ -1,0 +1,70 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/*
+Library/
+
+# ================ #
+# Unity don't diff #
+# ================ #
+*.asset -diff
+*.unity -diff
+*.prefab -diff
+*.anim -diff
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+Build/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========== #
+# Waffle      #
+# =========== #
+Build/
+Builds/
+Assets/Scripts/UnversionedClass*
+Assets/StreamingAssets/iOS/*
+Assets/Textures/1024x600/*
+Assets/Textures/1024x768/*
+Assets/Textures/1136x640/
+Assets/Textures/1280x720/
+Assets/Textures/1280x800/
+Assets/Textures/1334x750/
+Assets/Textures/1920x1080/
+Assets/Textures/2048x1536/
+Assets/Textures/2732x2048/
+Assets/Textures/4096x3072/
+Assets/Textures/960x640/
+Assets/Textures/800x480/
+AssetBundles/*
+Tools/Scripts/Localisation/output/*.json
+Tools/tmp/*
+
+# ========== #
+# Pycharm    #
+# ========== #
+Tools/Scripts/.idea
